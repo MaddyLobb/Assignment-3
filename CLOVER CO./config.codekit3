@@ -21,20 +21,12 @@
       "oF" : 0,
       "pg" : 0
     },
-    "\/deploy\/img\/about-us\/660 W Washington St - Google Maps copy.pdf" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
-      "oA" : 0,
-      "oAP" : "\/deploy\/img\/about-us\/660 W Washington St - Google Maps copy.pdf",
-      "oF" : 0
-    },
-    "\/deploy\/img\/about-us\/christina-wocintechchat-com-ivlw4orbruc-unsplash copy.jpg" : {
+    "\/deploy\/img\/about-us\/map.jpeg" : {
       "ft" : 16384,
-      "iS" : 2801671,
+      "iS" : 77192,
       "jF" : 0,
       "oA" : 0,
-      "oAP" : "\/deploy\/img\/about-us\/christina-wocintechchat-com-ivlw4orbruc-unsplash copy.jpg",
+      "oAP" : "\/deploy\/img\/about-us\/map.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -42,12 +34,12 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/deploy\/img\/about-us\/joel-muniz-KodMXENNaas-unsplash copy.jpg" : {
+    "\/deploy\/img\/about-us\/Owner.jpeg" : {
       "ft" : 16384,
-      "iS" : 1570241,
+      "iS" : 333257,
       "jF" : 0,
       "oA" : 0,
-      "oAP" : "\/deploy\/img\/about-us\/joel-muniz-KodMXENNaas-unsplash copy.jpg",
+      "oAP" : "\/deploy\/img\/about-us\/Owner.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -55,12 +47,25 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/deploy\/img\/about-us\/natallia-nagorniak-tA3sJ4u09eU-unsplash copy.jpg" : {
+    "\/deploy\/img\/about-us\/Table-4.jpeg" : {
       "ft" : 16384,
-      "iS" : 834194,
+      "iS" : 188680,
       "jF" : 0,
       "oA" : 0,
-      "oAP" : "\/deploy\/img\/about-us\/natallia-nagorniak-tA3sJ4u09eU-unsplash copy.jpg",
+      "oAP" : "\/deploy\/img\/about-us\/Table-4.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/deploy\/img\/about-us\/team.jpeg" : {
+      "ft" : 16384,
+      "iS" : 317994,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/deploy\/img\/about-us\/team.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -98,12 +103,12 @@
       "plM" : 52780316221407,
       "prP" : 0
     },
-    "\/deploy\/img\/gallery-&-reviews\/annie-spratt-TQSB-suJu1k-unsplash copy.jpg" : {
+    "\/deploy\/img\/gallery-&-reviews\/Couple-1.jpeg" : {
       "ft" : 16384,
-      "iS" : 3888005,
+      "iS" : 229470,
       "jF" : 0,
       "oA" : 0,
-      "oAP" : "\/deploy\/img\/gallery-&-reviews\/annie-spratt-TQSB-suJu1k-unsplash copy.jpg",
+      "oAP" : "\/deploy\/img\/gallery-&-reviews\/Couple-1.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -111,12 +116,12 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/deploy\/img\/gallery-&-reviews\/eliza-szablinska-TncriKEFStY-unsplash copy.jpg" : {
+    "\/deploy\/img\/gallery-&-reviews\/Couple-2.jpeg" : {
       "ft" : 16384,
-      "iS" : 3990385,
+      "iS" : 223949,
       "jF" : 0,
       "oA" : 0,
-      "oAP" : "\/deploy\/img\/gallery-&-reviews\/eliza-szablinska-TncriKEFStY-unsplash copy.jpg",
+      "oAP" : "\/deploy\/img\/gallery-&-reviews\/Couple-2.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -124,12 +129,12 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/deploy\/img\/gallery-&-reviews\/kelly-sikkema-k3Us72bWWW0-unsplash copy.jpg" : {
+    "\/deploy\/img\/gallery-&-reviews\/Couple-4.jpeg" : {
       "ft" : 16384,
-      "iS" : 455357,
+      "iS" : 648560,
       "jF" : 0,
       "oA" : 0,
-      "oAP" : "\/deploy\/img\/gallery-&-reviews\/kelly-sikkema-k3Us72bWWW0-unsplash copy.jpg",
+      "oAP" : "\/deploy\/img\/gallery-&-reviews\/Couple-4.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -137,12 +142,12 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/deploy\/img\/gallery-&-reviews\/mel-BN0HcaBdPug-unsplash copy.jpg" : {
+    "\/deploy\/img\/gallery-&-reviews\/Ring-1.jpeg" : {
       "ft" : 16384,
-      "iS" : 1778035,
+      "iS" : 117828,
       "jF" : 0,
       "oA" : 0,
-      "oAP" : "\/deploy\/img\/gallery-&-reviews\/mel-BN0HcaBdPug-unsplash copy.jpg",
+      "oAP" : "\/deploy\/img\/gallery-&-reviews\/Ring-1.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -150,12 +155,12 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/deploy\/img\/gallery-&-reviews\/nadia-valko-hYkOoi7z9sA-unsplash copy.jpg" : {
+    "\/deploy\/img\/gallery-&-reviews\/Table-1.jpeg" : {
       "ft" : 16384,
-      "iS" : 1783837,
+      "iS" : 265310,
       "jF" : 0,
       "oA" : 0,
-      "oAP" : "\/deploy\/img\/gallery-&-reviews\/nadia-valko-hYkOoi7z9sA-unsplash copy.jpg",
+      "oAP" : "\/deploy\/img\/gallery-&-reviews\/Table-1.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -163,12 +168,12 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/deploy\/img\/gallery-&-reviews\/victoria-priessnitz-pU_A9uhqcBU-unsplash copy.jpg" : {
+    "\/deploy\/img\/gallery-&-reviews\/Table-2.jpeg" : {
       "ft" : 16384,
-      "iS" : 2843999,
+      "iS" : 199986,
       "jF" : 0,
       "oA" : 0,
-      "oAP" : "\/deploy\/img\/gallery-&-reviews\/victoria-priessnitz-pU_A9uhqcBU-unsplash copy.jpg",
+      "oAP" : "\/deploy\/img\/gallery-&-reviews\/Table-2.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -176,12 +181,12 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/deploy\/img\/gallery-&-reviews\/vitor-pinto-iqA2-nRO0bQ-unsplash copy.jpg" : {
+    "\/deploy\/img\/gallery-&-reviews\/Table-3.jpeg" : {
       "ft" : 16384,
-      "iS" : 4904333,
+      "iS" : 172121,
       "jF" : 0,
       "oA" : 0,
-      "oAP" : "\/deploy\/img\/gallery-&-reviews\/vitor-pinto-iqA2-nRO0bQ-unsplash copy.jpg",
+      "oAP" : "\/deploy\/img\/gallery-&-reviews\/Table-3.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -189,12 +194,12 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/deploy\/img\/hero\/foto-pettine-IfjHaIoAoqE-unsplash.jpg" : {
+    "\/deploy\/img\/hero\/Couple-5.jpeg" : {
       "ft" : 16384,
-      "iS" : 705626,
+      "iS" : 82779,
       "jF" : 0,
       "oA" : 0,
-      "oAP" : "\/deploy\/img\/hero\/foto-pettine-IfjHaIoAoqE-unsplash.jpg",
+      "oAP" : "\/deploy\/img\/hero\/Couple-5.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -202,12 +207,12 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/deploy\/img\/our-packages\/fallon-michael-CEKa-wh1Fsw-unsplash copy.jpg" : {
+    "\/deploy\/img\/our-packages\/Arrangement-1.jpeg" : {
       "ft" : 16384,
-      "iS" : 1630190,
+      "iS" : 145478,
       "jF" : 0,
       "oA" : 0,
-      "oAP" : "\/deploy\/img\/our-packages\/fallon-michael-CEKa-wh1Fsw-unsplash copy.jpg",
+      "oAP" : "\/deploy\/img\/our-packages\/Arrangement-1.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -215,12 +220,12 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/deploy\/img\/our-packages\/micheile-henderson-KWHoxdn1IUE-unsplash.jpg" : {
+    "\/deploy\/img\/our-packages\/Venue-1.jpeg" : {
       "ft" : 16384,
-      "iS" : 892495,
+      "iS" : 157080,
       "jF" : 0,
       "oA" : 0,
-      "oAP" : "\/deploy\/img\/our-packages\/micheile-henderson-KWHoxdn1IUE-unsplash.jpg",
+      "oAP" : "\/deploy\/img\/our-packages\/Venue-1.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -228,12 +233,12 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/deploy\/img\/our-services\/wendy-winarno-vLehU15F_Ow-unsplash copy.jpg" : {
+    "\/deploy\/img\/our-services\/Ring-2.jpeg" : {
       "ft" : 16384,
-      "iS" : 1094556,
+      "iS" : 116088,
       "jF" : 0,
       "oA" : 0,
-      "oAP" : "\/deploy\/img\/our-services\/wendy-winarno-vLehU15F_Ow-unsplash copy.jpg",
+      "oAP" : "\/deploy\/img\/our-services\/Ring-2.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -241,12 +246,12 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/deploy\/img\/wedding-consults\/jonathan-borba-8BCdYLKrzz8-unsplash copy.jpg" : {
+    "\/deploy\/img\/wedding-consults\/Venue-2.jpeg" : {
       "ft" : 16384,
-      "iS" : 4908578,
+      "iS" : 702697,
       "jF" : 0,
       "oA" : 0,
-      "oAP" : "\/deploy\/img\/wedding-consults\/jonathan-borba-8BCdYLKrzz8-unsplash copy.jpg",
+      "oAP" : "\/deploy\/img\/wedding-consults\/Venue-2.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -552,7 +557,7 @@
   "projectAttributes" : {
     "creationDate" : 638898965.76008201,
     "displayValue" : "CLOVER CO.",
-    "displayValueWasSetByUser" : 0,
+    "displayValueWasSetByUser" : 1,
     "iconImageName" : "brackets-koamaru",
     "iconImageWasSetByUser" : 0
   },
